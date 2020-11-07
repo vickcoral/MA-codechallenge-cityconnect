@@ -13,12 +13,12 @@ Assumptions:
 
 Building the Project
 ====================
-To build run the command: `mvn clean package` in the root directory where pom.xml resides
+To build run the command: `mvn clean package` in the root directory where pom.xml is located
 
 
 Running the Project
 ====================
-run the command: `mvn spring-boot:run` in the root directory where pom.xml resides
+run the command: `mvn spring-boot:run` in the root directory where pom.xml is located
 
 
 Running Tests
